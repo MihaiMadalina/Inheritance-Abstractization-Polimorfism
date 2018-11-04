@@ -1,5 +1,6 @@
 import SwimmerWalker.Swimmer;
 import SwimmerWalker.Walker;
+import Vehicle.Bus;
 import Vehicle.Truck;
 
 public class Main {
